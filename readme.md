@@ -1,7 +1,7 @@
 # **Hello!** 
 
 I'm Miguel, im 17 years old, I am training to become a Software Engineer.
-In my freetime i like to discover new hobbies and always improve a little bit in everything.
+In my freetime i like to discover new tech related hobbies and always improve a little bit in everything.
 
 1/8 Engsoft UVA-RJ
 
