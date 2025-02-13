@@ -13,4 +13,4 @@ In my freetime i like to discover new tech related hobbies and always improve a 
  [![Vscode](https://github.com/user-attachments/assets/4d24629a-852a-49fe-9bc9-3e4e668ced8b)](https://code.visualstudio.com/)
 
 > [!IMPORTANT]
-> Highly inspired by Vedal, the creator of Neurosama AI. Expect future AI and chatbot`s focus
+> Highly inspired by [Vedal987](https://github.com/Vedal987), the creator of Neurosama AI. Expect future AI and chatbot`s focus
