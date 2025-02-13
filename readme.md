@@ -1,7 +1,15 @@
-* Hello! *
-I'm Miguel, im 17 years old, I am training to become a Game dev
+# **Hello!** 
 
- Skills / Learning currently
+I'm Miguel, im 17 years old, I am training to become a Game developer.
+In my freetime i like to discover new hobbies and always improve a little bit in everything
 
-![skill](https://github.com/user-attachments/assets/ba72387e-d163-45fe-8337-ccd65f26c302)
 
+ ## **Main language / Learning currently**
+ 
+ ![skill](https://github.com/user-attachments/assets/ba72387e-d163-45fe-8337-ccd65f26c302)
+
+## **IDE 🛠**
+
+ ![image](https://github.com/user-attachments/assets/4d24629a-852a-49fe-9bc9-3e4e668ced8b)
+ 
+ [Visual Studio Code](https://code.visualstudio.com/)
