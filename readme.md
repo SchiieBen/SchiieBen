@@ -1,6 +1,6 @@
 # **Hello!** 
 
-I'm Miguel, I am 17 years old, Currently training to become a Software Engineer.\
+I'm Miguel, I am 17 years old and from Brazil, Currently training to become a good Software Engineer.\
 In my freetime I like to discover new tech related hobbies and always improve a little bit in everything.\
 1/8 Engsoft [UVA-RJ](https://www.uva.br/)
 
