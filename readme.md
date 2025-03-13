@@ -6,7 +6,8 @@ In my freetime I like to discover new tech related hobbies and always improve a 
 
  ## **Main language / Learning currently**
  
- ![Abitlities](https://github.com/user-attachments/assets/ba72387e-d163-45fe-8337-ccd65f26c302)
+ ![Abitlities](![newallicos](https://github.com/user-attachments/assets/7a428495-f744-4448-b723-122ea7178e3d)
+)
 
 ## **IDE 🛠**
 
