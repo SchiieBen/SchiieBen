@@ -1,7 +1,7 @@
 # **Hello!** 
 
 I'm Miguel, I am 17 years old and from Brazil, Currently training to become a good Software Engineer.\
-In my freetime I like to play with 3D animations in Bleder && Develop my game. Always trying to improve a little bit in everything.\
+In my freetime I like to make some 3D animations in Blender && create fan games. Always trying to improve a little bit in everything.\
 1/8 Engsoft [UVA-RJ](https://www.uva.br/)
 
  ## **Main language / Learning currently**
