@@ -1,7 +1,7 @@
 # **Hello!** 
 
-I'm Miguel, from Brazil and currently training to become a good Software Engineer.\
-In my freetime I like to make some 3D animations in Blender && create fan games. Always trying to improve a little bit in everything.\
+I am a game dev.\
+I make some 3D animations in Unity. \
 1/8 Engsoft [UVA-RJ](https://www.uva.br/)
 
  ## **Main language / Learning currently**
