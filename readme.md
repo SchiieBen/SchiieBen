@@ -6,7 +6,7 @@ SoftEng at [UVA-RJ](https://www.uva.br/)
 
  ## **Main language / Learning currently**
  
- ![Abitlities](https://github.com/user-attachments/assets/7a428495-f744-4448-b723-122ea7178e3d)
+![Abilities](https://github.com/user-attachments/assets/dfc2ab32-56d7-42c4-88c0-2caea849a3dc)
 
 ## **IDE 🛠**
 
