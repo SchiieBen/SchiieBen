@@ -4,7 +4,7 @@ I am a Game Dev!\
 Currently in training :) \
 SoftEng at [UVA-RJ](https://www.uva.br/)
 
- ## **Main languages / Learning currently**
+ ## **Main languages**
  
 ![Abilities](https://github.com/user-attachments/assets/dfc2ab32-56d7-42c4-88c0-2caea849a3dc)
 
