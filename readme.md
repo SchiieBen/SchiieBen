@@ -1,10 +1,10 @@
 # **Hello!** 
 
-I am a game dev.\
-Also i like to make 3D animations in Unity. \
+I am a Game Dev!\
+Currently in training :) \
 SoftEng at [UVA-RJ](https://www.uva.br/)
 
- ## **Main language / Learning currently**
+ ## **Main languages / Learning currently**
  
 ![Abilities](https://github.com/user-attachments/assets/dfc2ab32-56d7-42c4-88c0-2caea849a3dc)
 
