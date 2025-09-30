@@ -1,7 +1,7 @@
 # **Hello!** 
 
-I am a Game Dev!\
-Currently in training :) \
+I love making Games! \
+Currently learning VFX \
 SoftEng at [UVA-RJ](https://www.uva.br/)
 
  ## **Main languages**
